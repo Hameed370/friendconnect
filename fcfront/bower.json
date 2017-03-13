@@ -1,0 +1,22 @@
+{
+  "name": "fcfront",
+  "homepage": "https://github.com/Hameed370/friendconnect",
+  "authors": [
+    "Hameed Ansari <hameed_niit@hotmail.com>"
+  ],
+  "description": "this project is for collabration",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3"
+  }
+}
